@@ -17,11 +17,5 @@
 
 
 
-✨  <I>[RESUME](https://bit.ly/3dEjGWB)</I>    
-🌱  <I>[PORTFOLIO](https://bit.ly/3GEPqXT)</I>      
-✏️  <I>[VELOG](https://programmer-eun.tistory.com/)</I>    
-
-
-
-
-
+✨  <I>[RESUME](https://www.notion.so/f6f37c45b77b45e89da7cdce08e4e739)</I>
+✏️  <I>[VELOG](https://velog.io/@jinu0729)</I>
