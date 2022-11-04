@@ -1,13 +1,12 @@
 ## *Back-end Developer*, 꾸준히 성장하는 개발자
-![](https://img.shields.io/badge/-Babel-F9DC3E?&logo=Babel&logoColor=white)
-![](https://img.shields.io/badge/-Webpack-8DD6F9?&logo=Webpack&logoColor=black)
-![](https://img.shields.io/badge/-Prettier-F7B93E?&logo=Prettier&logoColor=white)
-![](https://img.shields.io/badge/-ESLint-4B32C3?&logo=ESLint&logoColor=white)
-![typescript](https://img.shields.io/badge/typescript-007acc?logo=typescript&logoColor=white)
-![react](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![react native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
-![redux-toolkit](https://img.shields.io/badge/-Redux%20ToolKit-764abc?logo=redux&logoColor=white)
-![](https://img.shields.io/badge/-Storybook-FF4785?&logo=Storybook&logoColor=white)
+![spring boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![mysql](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![mariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white)
+![redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![ec2](https://img.shields.io/badge/-Amazon%20EC2-FF9900?logo=amazonec2&logoColor=white)
+![rds](https://img.shields.io/badge/-Amazon%20RDS-527FFF?logo=amazonrds&logoColor=white)
+
+
 
 
 
