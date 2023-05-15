@@ -16,5 +16,5 @@
 
 
 
-✨  <I>[RESUME](https://www.notion.so/f6f37c45b77b45e89da7cdce08e4e739)</I>      
+✨  <I>[RESUME](https://jinu0729.notion.site/20575f63fe85464281bcce14ba4d1b65)</I>      
 ✏️  <I>[VELOG](https://velog.io/@jinu0729)</I>
