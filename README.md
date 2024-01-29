@@ -10,11 +10,12 @@
 
 
 
-* **스파르타코딩클럽 항해99 8기** <I>22.07.04 ~ 22.10.14</I> 
+* **팀 스파르타 항해99 8기** <I>22.07.04 ~ 22.10.14</I>
+* **팀 스파르타 프로덕트 캠프 2기** <I>23.11.13 ~ 24.02.02</I> 
 
 
 
 
 
-✨  <I>[RESUME](https://jinu0729.notion.site/20575f63fe85464281bcce14ba4d1b65)</I>      
+✨  <I>[RESUME](https://jinu0729.notion.site/20575f63fe85464281bcce14ba4d1b65)</I>
 ✏️  <I>[VELOG](https://velog.io/@jinu0729)</I>
