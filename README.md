@@ -1,10 +1,13 @@
 ## *Back-end Developer*, 새로운 기술과 도전을 즐기는 개발자
 ![spring boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![nestjs](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![mysql](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![mariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white)
 ![redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![ec2](https://img.shields.io/badge/-Amazon%20EC2-FF9900?logo=amazonec2&logoColor=white)
 ![rds](https://img.shields.io/badge/-Amazon%20RDS-527FFF?logo=amazonrds&logoColor=white)
+![s3](https://img.shields.io/badge/-Amazon%20S3-569A31?logo=amazons3&logoColor=white)
 
 
 
